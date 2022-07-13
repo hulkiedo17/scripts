@@ -1,7 +1,7 @@
 # scripts
 My shell scripts that i use in linux
 
-## scripts
+## list of scripts
 
 | script | description |
 | --- | --- |
