@@ -8,4 +8,5 @@ My shell scripts that i use in linux
 | install.sh | installing programs |
 | ssh.sh | generates ssh key and copies to clipboard |
 | update.sh | updates the system |
+| backup.sh | creates and decompresses backup files |
 
